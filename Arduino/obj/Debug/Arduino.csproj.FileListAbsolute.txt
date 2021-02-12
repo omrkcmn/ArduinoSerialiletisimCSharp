@@ -1,0 +1,17 @@
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\bin\Debug\Arduino.exe
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\bin\Debug\Arduino.pdb
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.csprojResolveAssemblyReference.cache
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.Cache
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.exe
+c:\users\omr_k\documents\visual studio 2015\Projects\Arduino\Arduino\obj\Debug\Arduino.pdb
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\bin\Debug\Arduino.exe
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\bin\Debug\Arduino.pdb
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.csprojAssemblyReference.cache
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.exe
+D:\YEDEK PC\Visual S. Projeler\Arduino\Arduino\obj\Debug\Arduino.pdb
